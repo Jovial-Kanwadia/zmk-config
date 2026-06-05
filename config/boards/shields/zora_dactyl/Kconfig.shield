@@ -1,0 +1,5 @@
+config SHIELD_ZORA_DACTYL_LEFT
+    def_bool $(shields_list_contains,zora_dactyl_left)
+
+config SHIELD_ZORA_DACTYL_RIGHT
+    def_bool $(shields_list_contains,zora_dactyl_right)
