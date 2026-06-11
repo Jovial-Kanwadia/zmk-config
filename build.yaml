@@ -23,3 +23,5 @@ include:
     shield: zora_dactyl_left
   - board: nice_nano_v2
     shield: zora_dactyl_right
+  - board: nice_nano_v2
+    shield: settings_reset
