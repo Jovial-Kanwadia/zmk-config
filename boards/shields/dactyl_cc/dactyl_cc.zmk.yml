@@ -1,0 +1,11 @@
+file_format: "1"
+id: dactyl_cc
+name: Dactyl CC 6x6
+type: shield
+url: https://github.com/Jovial-Kanwadia/zmk-config
+requires: [nice_nano]
+features:
+  - keys
+siblings:
+  - dactyl_cc_left
+  - dactyl_cc_right
