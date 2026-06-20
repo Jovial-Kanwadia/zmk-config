@@ -43,7 +43,7 @@
                 &kp LBKT     &kp RBKT     &kp UP       &kp DOWN     &kp LEFT     &kp RIGHT
                                                         &kp HOME     &kp PGDN     &kp PGUP     &kp END      &kp MINUS    &kp EQUAL
 
-                &kp TAB      &mo RAISE    &mo LOWER    &mo ADJUST   &kp SPACE    &kp RET
+                &kp TAB      &mo RAISE    &mo LOWER    &mo ADJUST   &kp SPACE    &kp ENTER
                                                         &kp ENTER    &mo ADJUST   &mo LOWER    &mo RAISE   &kp BSPC     &kp DEL
             >;
         };
@@ -64,7 +64,7 @@
                                                         &kp C_VOL_DN &kp LEFT  &kp DOWN    &kp RIGHT   &kp PG_DN   &trans
 
                 &trans      &trans      &trans      &trans      &trans      &trans
-                                                        &kp HOME    &kp END    &kp INS     &kp DEL     &kp MUTE    &trans
+                                                        &kp HOME    &kp END    &kp INS     &kp DEL     &kp C_MUTE    &trans
 
                 &trans      &trans      &trans      &trans      &trans      &trans
                                                         &trans      &trans      &trans      &trans      &trans      &trans
