@@ -22,7 +22,7 @@
                 /* ROW 3 */
                 &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B       &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp RSHFT
                 /* ROW 4 (8 keys) */
-                &kp GRAVE   &kp LBKT    &kp RIGHT   &kp LEFT    &kp UP      &kp DOWN    &kp RBKT    &mo FN
+                &none       &kp GRAVE   &kp LBKT    &kp LEFT    &kp RIGHT   &none       &none       &kp UP      &kp DOWN    &kp RBKT    &mo FN      &none
                 /* ROW 5 */
                 &kp LGUI    &kp BSPC    &kp LCTRL   &kp HOME    &kp END     &kp PGUP    &kp PGDN    &kp DEL     &kp INS     &kp LALT    &kp ENTER   &kp SPACE
             >;
